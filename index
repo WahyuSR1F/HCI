@@ -1,0 +1,388 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <!-- mycss -->
+   <style>
+     section {
+       min-height: 420px;
+       padding: 40px;
+     }
+
+   </style>
+
+
+
+    <title>Wahyu Sahri Rhamadhan</title>
+  </head>
+  <body id="profile"class="mt-5 bg-secondary">
+    <!-- ketik sibagian bagian webset-->
+    <!--navbar -->
+<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-info">
+  <div class="container">
+  <a class="navbar-brand" href="#">MY PROFILE</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      <a class="nav-item nav-link active" href="#profile">Profile<span class="sr-only">(current)</span></a>
+      <a class="nav-item nav-link" href="#Portofolio">Portofolio</a>
+      <a class="nav-item nav-link" href="#Hobby">Hobby</a>
+      <a class="nav-item nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Contact</a>
+    </div>
+  </div>
+</div>
+</nav>
+<!--jumbo trone-->
+<div class="jumbotron jumbotron-fluid bg-dark">
+  <div class="container">
+        <div class="row">
+          <div class="col text-center">
+             <img src="https://scontent.fsub5-1.fna.fbcdn.net/v/t31.18172-8/19222686_116159252317142_2994528116211808467_o.jpg?_nc_cat=111&ccb=1-5&_nc_sid=174925&_nc_eui2=AeH19QUv4P8FXo8rjnJORiaBm2rdxsqht5-bat3GyqG3n0faE-d8u2APbQJzhxLk4IJwY2kI_Xc3Ze9BrPmfjCRs&_nc_ohc=P9BeZe7n-rgAX84Gmx5&_nc_ht=scontent.fsub5-1.fna&oh=00_AT_QQm7_H1tqyA2hN0qx3d_3-mo8nPUXgs4jqBJyWXYYvQ&oe=61F6C3FE" width="60%"class="rounded-circle img-thumbnail">
+           </div>
+          <div class="col">
+              <h1 class="display-4 text-white">WAHYU SAHRI RHAMADHAN</h1>
+              <p class="lead text-white">Selamat Datang di Website Kami Dengan Bangga Kami Mempersembahkan</p>
+           </div>
+        </div>
+     </div>
+  </div>
+</div>
+<!---LAYOUT---->
+<section id = "about"class="about text-white">
+<div class = "container">
+  <div class="row mb-5">
+    <div class="col-md text-center">
+        <h3>Profile</h3>
+    </div>
+  </div>
+  <div class="row justify-content-center "> 
+    <div class="col-md-5 mb-4 ">
+          <table>
+          <tr>
+          <td>NAMA </td>
+          <td> : WAHYU SAHRI RHAMADHAN</td>
+            
+          </tr>
+          <tr>
+            <td>KELAS </td>
+            <td> : IF </td>
+            <td></td>
+          </tr>
+
+          <tr>
+            <td>NIM</td>
+            <td>: 362155401160</td>
+            <td></td>
+          </tr>
+
+            <tr>
+            <td> ALAMAT </td>
+              <td>: Ds. kembangsri, Kec. Ngoro, Kab. mojokerto </td>
+              <td></td>
+            </tr>
+
+            <tr>
+              <td> HOBBIE </td>
+              <td>: Berenang, Berlari, Gamers, Anime art </td>
+              <td></td>
+            </tr>
+
+            <tr>
+              <td>MAKANAN </td>
+              <td> : Ramen of java (mie ayam) </td>
+              </tr>
+            </table>
+    </div>
+    <div class="col-md-5 text-center ">
+      <h5>My Description</h5>
+          <p>Namaku Wahyu Sahri Rhamadhan saya adalah orang suka berteman namun karena keterbatasan dalam berkomunikasi sehingga saya sulit berbaur karena tidak tau pokok yang dibahas amereka itu apa, saya orangnya suka berkerja dengan team  karena didalamnya  mengandung lebih banyak proses bertukar pikiran </p>
+          <p> Menurut saya kebahagiaan datang dari hati kita sendiri bagai mana kita bisa dan mampu bertahan menghadapi semua rintangan didunia ini, perjuangan demi perjuangan aku lalui</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- portofolio -->
+<section  id="Portofolio"class="Portofolio  pb-4" >
+<div class="container">
+    <div class="row mb-4 pt-4 ">
+      <div class="col text-center text-white">
+        <h3>Portofolio</h3>
+      </div>
+    </div>
+    <div class="row mb-4">
+      <div class="col-md">
+        <div class="card">
+            <img src="https://getwallpapers.com/wallpaper/full/4/5/7/491328.jpg" class="card-img-top img-fluid" alt="...">
+            <div class="card-body">
+                 <h5 class="card-title">JAVA</h5>
+                 <p class="card-text"><b>Java Program</b>adalah bahasa program yang aku sukai, sintaknya yang mudah dan dimegerti </p>
+                 <a href="#" class="btn btn-primary">Lebih Lengkapnya</a>
+              </div>
+            </div>
+        </div>
+        <div class="col-md">
+          <div class="card">
+            <img src="https://th.bing.com/th/id/OIP.VllfJPORxu9Nx1-Te64GPQHaEo?pid=ImgDet&rs=1" class="card-img-top img-fluid" alt="...">
+              <div class="card-body">
+                 <h5 class="card-title">HTML</h5>
+                 <p class="card-text">HTML murapakan program pembentukan struktur utama dalam web 
+                  <br>
+                </p>
+                 <a href="#" class="btn btn-primary">Lebih Lengkapnya</a>
+              </div>
+            </div>
+        </div>
+        <div class="col-md">
+          <div class="card">
+            <img src="https://th.bing.com/th/id/OIP.hDeo7KLspmXciZmQp6c5UQHaE8?pid=ImgDet&w=750&h=500&rs=1" class="card-img-top img-fluid" alt="...">
+              <div class="card-body">
+                 <h5 class="card-title">CSS</h5>
+                 <p class="card-text">CSS adalah bahasa markup dimana digunakan untuk menghias file agar terlihat lebih rapi dan indah </p>
+                 <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+        </div>
+    </div>
+    <!------->
+     <div class="row mb-4">
+      <div class="col-md">
+        <div class="card">
+            <img src="https://th.bing.com/th/id/OIP.KajYpM7CzDwJYOa37ElEzwHaKe?pid=ImgDet&rs=1" class="card-img-top img-fluid" alt="...">
+            <div class="card-body">
+                 <h5 class="card-title">Comic Drawing</h5>
+                 <p class="card-text">Comic drawing merupakan kegiatan yang saya senangi meskipun dikatakan hobby namun profesi pembuatan comic merupaka hal yang menarik bagi ku</p>
+                 <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+        </div>
+        <div class="col-md">
+          <div class="card">
+            <img src="https://i.pinimg.com/originals/79/89/95/7989952754d8a63edb5ef0338efa3f76.jpg" class="card-img-top img-fluid" alt="...">
+              <div class="card-body">
+                 <h5 class="card-title">Draws Anime</h5>
+                 <p class="card-text">Draws anime merupakan hal paling aku suka selain melatih keterampilan soal seni aksir saya suka dengan profesi ini</p>
+                 <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+        </div>
+        <div class="col-md">
+          <div class="card">
+            <img src="https://th.bing.com/th/id/OIP.rYcM2fokNuGRMW-LNgep_QHaHf?pid=ImgDet&w=2257&h=2282&rs=1 " class="card-img-top img-fluid" alt="...">
+              <div class="card-body">
+                 <h5 class="card-title">Anime Digital Wallpaper Design</h5>
+                 <p class="card-text">Selain mengambar pada kertas saya biasanya mencoba hal baru untuk bisa mengambar di dunia digital selain gambarnya bisa dijual, kita juga dapat pengalaman ide-ide baru dari internet</p>
+                 <a href="#" class="btn btn-primary">Lihat Selengkapnya</a>
+              </div>
+            </div>
+        </div>
+    </div>
+    <!------->
+</div>
+</section>
+
+<!-- HOBBY -->
+<section id="Hobby"class="Hobby mb-5 mt-5">
+  <div class="container">
+    <div class="row pt-4 mb-4">
+      <div class="col text-center text-white">
+        <h3>My Hobby</h3>
+      </div>
+    </div>
+
+    <!--hoobie1-->
+          <div class="row">
+            <div class="col-md">
+                   <div class="card mb-3 bg-info">
+                      <div class="row g-0">
+                        <div class="col-md-4">
+                          <img src="https://i.pinimg.com/originals/8f/15/57/8f1557ecc1a0236e01c4c59b23f58039.jpg" class="img-fluid rounded-start" alt="...">
+                        </div>
+                       <div class="col-md-8">
+                       <div class="card-body">
+                        <h5 class="card-title">Aquascape</h5>
+                        <p class="card-text">adalah hoby kesukaan saya selain indah dimata</p>
+                         <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                       </div>
+                     </div>
+                   </div>
+                  </div>
+              </div>
+             </div>
+
+            <!--hoobie2-->
+              <div class="row">
+                  <div class="col-md">
+                      <div class="card mb-3 bg-warning bg-gradient">
+                      <div class="row g-0">
+                        <div class="col-md-4">
+                          <img src="https://media-cdn.tripadvisor.com/media/photo-s/14/57/5b/9b/road-bike-rental-in-mallorca.jpg" class="img-fluid rounded-start" alt="...">
+                        </div>
+                       <div class="col-md-8">
+                       <div class="card-body">
+                        <h5 class="card-title">Road Bike</h5>
+                        <p class="card-text">adalah hoby yang aku sukai selain terlihat bagus keren, yang pasti menyehatkan</p>
+                         <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                       </div>
+                     </div>
+                   </div>
+                  </div>
+                </div>
+              </div> 
+
+                  <!--hoobie3-->
+               <div class="row">
+                  <div class="col-md">
+                      <div class="card mb-3 bg-danger">
+                      <div class="row g-0">
+                        <div class="col-md-4">
+                          <img src="https://th.bing.com/th/id/OIP.dKmOc45wjkuFtIjAPG3lUwHaEK?pid=ImgDet&rs=1" class="img-fluid rounded-start" alt="...">
+                        </div>
+                       <div class="col-md-8">
+                       <div class="card-body">
+                        <h5 class="card-title">Bootstrap</h5>
+                        <p class="card-text">Selain pemrograman saya suka juga framework membuat website juga sangat mudah sekali dan hasilnya bisa tertata</p>
+                         <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                       </div>
+                     </div>
+                   </div>
+                  </div>
+                  </div>
+              </div>
+                  <!--hoobie4-->
+               <div class="row">
+                  <div class="col-md">
+                      <div class="card mb-3 bg-primary">
+                      <div class="row g-0">
+                        <div class="col-md-4">
+                          <img src="https://th.bing.com/th/id/OIP.J87t8dcS5BwKTD-EnlSR3AHaE7?pid=ImgDet&rs=1" class="img-fluid rounded-start" alt="...">
+                        </div>
+                       <div class="col-md-8">
+                       <div class="card-body">
+                        <h5 class="card-title">Video Creator</h5>
+                        <p class="card-text">adalah hobby untk mengisi waktu luang saya dalam ber kreasi</p>
+                         <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                       </div>
+                     </div>
+                   </div>
+                  </div>
+                  </div>
+              </div>
+
+                  <!--hoobie4-->
+               <div class="row">
+                  <div class="col-md">
+                      <div class="card mb-3 bg-light">
+                      <div class="row g-0">
+                        <div class="col-md-4">
+                          <img src="https://scontent.fsub5-1.fna.fbcdn.net/v/t39.30808-6/271135562_972443106688748_5365562587704256939_n.jpg?_nc_cat=103&_nc_rgb565=1&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeE7kHn5-O2zzvtI0P2LMSiqVAJ6X7In9x9UAnpfsif3H1re-e6GbmoLDygla0Oj5-7RWJ2_tIDMyf91i5rm0BoE&_nc_ohc=CMhGwJEdVsEAX-CiS9h&_nc_zt=23&_nc_ht=scontent.fsub5-1.fna&oh=00_AT_P9BUkVIp9FKCSSjvXouWkHO3onWiLJlsXwuX8Rmpj4g&oe=61D72864" alt="..." class="img-fluid">
+                        </div>
+                       <div class="col-md-8">
+                       <div class="card-body">
+                        <h5 class="card-title">CAT</h5>
+                        <p class="card-text">Cat adalah hewan sangat kusukai apalagi gemoy</p>
+                         <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                       </div>
+                     </div>
+                   </div>
+                  </div>
+                </div>
+              </div>                                        
+       </div>
+
+       <!-- contac -->
+</section>
+<section id="Contact" class="Contact mt-5 bg-dark pb-4">
+  <div class="container">
+    <div class="row pt-4 mb-4">
+      <div class="col text-center text-white">
+        <h3>Contac Us</h3>
+      </div>
+    </div>
+
+    <div class="row justify-content-center">
+      <div class="col-lg-4">
+        <div class="card text-white bg-success mb-3 text-center" >
+            <div class="card-body">
+             <h5 class="card-title">Contact Me</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          </div>
+        </div>
+          <ul class="list-group">
+          <li class="list-group-item active" aria-current="true">Location</li>
+          <li class="list-group-item">Dsn. Bangsri, Ds. Kembangsri</li>
+          <li class="list-group-item">Ngoro-Mojokerto Regency</li>
+          <li class="list-group-item">East java</li>
+        </ul>
+      </div>
+
+      <div class="col-lg-4">
+
+          <div class="input-group mb-3">
+              <span class="input-group-text" id="basic-addon1">@</span>
+              <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+            </div>
+
+          <div class="mb-3">
+            <label for="exampleFormControlInput1" class="form-label text-white">Email address</label>
+            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+          </div>
+
+        <div class="form-floating text-white">
+           <label for="floatingTextarea2">Comments</label>
+            <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px"></textarea>
+           
+            </div>
+
+          <div class="mb-3 form-check">
+            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+            <label class="form-check-label text-white" for="exampleCheck1 ">Check me out</label>
+          </div>
+          <button type="submit" class="btn btn-primary">Submit</button>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="bg-info text-black">
+  <div class="container pb-4 pt-3">
+    <div class="row text-center">
+      <div class="col">Copyright 2021</div>
+    </div>
+  </div>
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  </body>
+</html>
